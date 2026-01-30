@@ -90,7 +90,7 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
       🔗 <a href="https://github.com/Dtnexo/P_App">Voir le projet</a>
     </td>
   </tr>
-
+</table>
 ---
 
 ## 📈 GitHub Stats
