@@ -78,8 +78,9 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dtnexo/Dtnexo/blob/master/metrics.svg?raw=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dtnexo&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 ---
 
