@@ -74,24 +74,11 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dtnexo&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dtnexo&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Dtnexo&theme=tokyonight" />
 </p>
 
-
----
-
-## 🐍 Metrics (animation)
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dtnexo&theme=tokyo-night" />
+  <img src="https://github.com/Dtnexo/Dtnexo/blob/master/metrics.svg?raw=1" />
 </p>
 
 ---
