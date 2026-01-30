@@ -35,34 +35,77 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
 
 ---
 
-## <img src="https://cdn.simpleicons.org/devdotto/ffffff" width="22"/> Stack & Compétences
+## 🔗 Stack technique
 
 ### Frontend
-<p>
-  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="28"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="28"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="28"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="28"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28"/>
-</p>
+
+<table>
+  <tr>
+    <td width="40"><img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="28"/></td>
+    <td><strong>Vue.js</strong><br/>Framework frontend progressif</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/react/61DAFB" width="28"/></td>
+    <td><strong>React</strong><br/>Bibliothèque UI orientée composants</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/html5/E34F26" width="28"/></td>
+    <td><strong>HTML5</strong><br/>Structure et sémantique des pages web</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/css3/1572B6" width="28"/></td>
+    <td><strong>CSS3</strong><br/>Responsive design, Flexbox, Grid</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28"/></td>
+    <td><strong>JavaScript</strong><br/>Logique applicative et interactions</td>
+  </tr>
+</table>
+
+---
 
 ### Backend
-<p>
-  <img src="https://cdn.simpleicons.org/node.js/339933" width="28"/>
-  <img src="https://cdn.simpleicons.org/express/ffffff" width="28"/>
-</p>
+
+<table>
+  <tr>
+    <td width="40"><img src="https://cdn.simpleicons.org/node.js/339933" width="28"/></td>
+    <td><strong>Node.js</strong><br/>Environnement JavaScript côté serveur</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/express/ffffff" width="28"/></td>
+    <td><strong>Express.js</strong><br/>Framework backend minimaliste</td>
+  </tr>
+</table>
+
+---
 
 ### Bases de données
-<p>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="28"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="28"/>
-</p>
+
+<table>
+  <tr>
+    <td width="40"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="28"/></td>
+    <td><strong>MySQL</strong><br/>Base relationnelle, modélisation et requêtes</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" width="28"/></td>
+    <td><strong>MongoDB</strong><br/>NoSQL — notions</td>
+  </tr>
+</table>
+
+---
 
 ### Infrastructure & Outils
-<p>
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="28"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="28"/>
-</p>
+
+<table>
+  <tr>
+    <td width="40"><img src="https://cdn.simpleicons.org/github/ffffff" width="28"/></td>
+    <td><strong>GitHub</strong><br/>Gestion de versions et collaboration</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/linux/FCC624" width="28"/></td>
+    <td><strong>Linux</strong><br/>Environnements, systèmes et commandes</td>
+  </tr>
+</table>
 
 ---
 
