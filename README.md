@@ -5,9 +5,15 @@
 
 <!-- QUICK BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Apprenti-3e%20annee-informational" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack-blue" />
-  <img src="https://komarev.com/ghpvc/?username=Dtnexo&label=Vues%20du%20profil&color=blue&style=flat" />
+
+<img src="https://img.shields.io/badge/Apprenti-3e_année-0A66C2?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spécialité-Développement-6f42c1?style=for-the-badge&logo=code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Profil-Fullstack-0db7ed?style=for-the-badge&logo=stackshare&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vues_du_profil-64-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
 ---
