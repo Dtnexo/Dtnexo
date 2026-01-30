@@ -1,7 +1,21 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=800&lines=Salut+%F0%9F%91%8B+Moi+c'est+Dtnexo;Apprenti+Informatique+-+3e+annee+Developpement;Passionne+par+l'informatique+%F0%9F%94%A5;Vue.js+%7C+React+%7C+API+REST+Express+%7C+MySQL;Toujours+en+train+d'apprendre+et+de+build" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com
+      ?font=Fira+Code
+      &size=26
+      &pause=900
+      &center=true
+      &vCenter=true
+      &width=900
+      &lines=Salut,+moi+c'est+Dtnexo;
+      Apprenti+Informatique+-+3e+annee+Developpement;
+      Passionné+d'informatique;
+      Vue.js+%7C+React+%7C+API+REST+Express+%7C+MySQL;
+      Toujours+en+train+d'apprendre"
+  />
 </p>
+
 
 <!-- QUICK BADGES -->
 <p align="center">
