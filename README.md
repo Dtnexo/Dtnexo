@@ -88,10 +88,10 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
 
 ---
 
-## 🐍 Contribution Snake (animation)
+## 🐍 Snake (animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dtnexo/Dtnexo/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Dtnexo/Dtnexo/blob/output/github-contribution-grid-snake.gif?raw=1" />
 </p>
 
 ---
