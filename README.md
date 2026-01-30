@@ -63,7 +63,6 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
 
 ### ⚙️ Infra / Outils
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/Infrastructure-notions-6f42c1" />
 </p>
