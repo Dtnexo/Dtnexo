@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Salut,+moi+c'est+Dtnexo;Apprenti+Informatique+-+3e+annee+Developpement;Passionn%C3%A9+d%27informatique;Vue.js+%7C+React+%7C+API+REST+Express+%7C+MySQL;Toujours+en+train+d%27apprendre" />
 </p>
 
-
-
 <!-- QUICK BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Apprenti-3e%20annee-informational" />
@@ -14,62 +12,61 @@
 
 ---
 
-## 👤 À propos de moi
+## <img src="https://cdn.simpleicons.org/aboutdotme/ffffff" width="22"/> À propos de moi
 
 Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné par l’informatique et curieux de tout ce qui touche au **développement web**, aux **API**, aux **bases de données** et à **l’infrastructure**.
 
 <ul>
   <li>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="16"/>
-    J’aime concevoir des <strong>projets concrets, structurés et maintenables</strong>
+    Conception de <strong>projets concrets, structurés et maintenables</strong>
   </li>
 
   <li>
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/>
-    Je progresse en <strong>fullstack</strong> (frontend & backend)
+    Progression en <strong>fullstack</strong> (frontend & backend)
   </li>
 
   <li>
     <img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/>
-    Je m’intéresse à l’<strong>infrastructure</strong> et au fonctionnement des systèmes
+    Intérêt pour l’<strong>infrastructure</strong> et les systèmes
   </li>
 </ul>
 
 ---
 
-## 🧰 Stack & Compétences
+## <img src="https://cdn.simpleicons.org/devdotto/ffffff" width="22"/> Stack & Compétences
 
-### 🎨 Frontend
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="28"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="28"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="28"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="28"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28"/>
 </p>
 
-### 🧩 Backend
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/API%20REST-0A0A0A?logo=fastapi&logoColor=fff" />
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="28"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="28"/>
 </p>
 
-### 🗄️ Bases de données
+### Bases de données
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB%20(notions)-47A248?logo=mongodb&logoColor=fff" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="28"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="28"/>
 </p>
 
-### ⚙️ Infra / Outils
+### Infrastructure & Outils
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Infrastructure-notions-6f42c1" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="28"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="28"/>
 </p>
 
 ---
 
-## 📌 Projets à voir
+## <img src="https://cdn.simpleicons.org/gitbook/ffffff" width="22"/> Projets à voir
 
 <table>
   <tr>
@@ -79,7 +76,7 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
     <td>
       <strong>API REST — Express.js</strong><br/>
       Architecture backend, routes REST, validation, sécurité<br/>
-      🔗 <a href="https://github.com/Dtnexo/P_ApiRest-295">Voir le projet</a>
+      <a href="https://github.com/Dtnexo/P_ApiRest-295">Voir le projet</a>
     </td>
   </tr>
 
@@ -89,8 +86,8 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
     </td>
     <td>
       <strong>Projet Web — Vue.js</strong><br/>
-      Application frontend moderne (SPA)<br/>
-      🔗 <a href="https://github.com/Dtnexo/P_Web-295-294">Voir le projet</a>
+      Application frontend SPA moderne<br/>
+      <a href="https://github.com/Dtnexo/P_Web-295-294">Voir le projet</a>
     </td>
   </tr>
 
@@ -100,15 +97,15 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
     </td>
     <td>
       <strong>Application JavaScript</strong><br/>
-      Logique métier, DOM, interactions utilisateur<br/>
-      🔗 <a href="https://github.com/Dtnexo/P_App">Voir le projet</a>
+      DOM, logique métier, interactions utilisateur<br/>
+      <a href="https://github.com/Dtnexo/P_App">Voir le projet</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://cdn.simpleicons.org/githubactions/ffffff" width="22"/> GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dtnexo&theme=tokyonight" />
@@ -120,45 +117,41 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
 
 ---
 
-## 🎯 Objectifs
+## <img src="https://cdn.simpleicons.org/target/ffffff" width="22"/> Objectifs
 
 <ul>
   <li>
     <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="16"/>
     <img src="https://cdn.simpleicons.org/react/61DAFB" width="16"/>
-    Monter en niveau sur <strong>Vue.js</strong> et <strong>React</strong>
+    Monter en niveau sur Vue.js et React
   </li>
 
   <li>
     <img src="https://cdn.simpleicons.org/node.js/339933" width="16"/>
-    Développer des <strong>API REST robustes</strong>
-    (authentification, validations, sécurité)
+    Développer des API REST sécurisées et robustes
   </li>
 
   <li>
     <img src="https://cdn.simpleicons.org/mysql/4479A1" width="16"/>
     <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"/>
-    Approfondir <strong>MySQL</strong> et progresser sur <strong>MongoDB</strong>
+    Approfondir MySQL et MongoDB
   </li>
 
   <li>
     <img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/>
-    Explorer l’<strong>infrastructure</strong>
-    (réseau, systèmes, déploiement)
+    Continuer l’exploration infrastructure (réseau, systèmes, déploiement)
   </li>
 </ul>
 
 ---
 
-## 📬 Contact
+## <img src="https://cdn.simpleicons.org/minutemailer/ffffff" width="22"/> Contact
 
 <p>
   <img src="https://cdn.simpleicons.org/github/ffffff" width="18"/>
-  <strong>GitHub :</strong>
   <a href="https://github.com/Dtnexo">https://github.com/Dtnexo</a>
 </p>
 
 <p align="center">
-  <i>⚡ Toujours curieux, toujours en train d’apprendre.</i>
+  <i>Toujours curieux, toujours en train d’apprendre.</i>
 </p>
-
