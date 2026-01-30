@@ -12,7 +12,8 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/aboutdotme/ffffff" width="22"/> À propos de moi
+## ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> À propos de moi
+ À propos de moi
 
 Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné par l’informatique et curieux de tout ce qui touche au **développement web**, aux **API**, aux **bases de données** et à **l’infrastructure**.
 
