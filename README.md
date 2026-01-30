@@ -81,22 +81,47 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dtnexo&theme=tokyo-night&hide_border=true" />
 </p>
 
-
 ---
 
 ## 🎯 Objectifs
 
-- ✅ Monter en niveau sur **Vue.js / React**
-- ✅ Faire des **API REST** plus robustes (auth, validations, sécurité)
-- ✅ Approfondir **MySQL** et progresser sur **MongoDB**
-- ✅ Continuer à explorer l’**infrastructure** (réseau, systèmes, déploiement)
+<ul>
+  <li>
+    <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="16"/>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="16"/>
+    Monter en niveau sur <strong>Vue.js</strong> et <strong>React</strong>
+  </li>
+
+  <li>
+    <img src="https://cdn.simpleicons.org/node.js/339933" width="16"/>
+    Développer des <strong>API REST robustes</strong>
+    (authentification, validations, sécurité)
+  </li>
+
+  <li>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="16"/>
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"/>
+    Approfondir <strong>MySQL</strong> et progresser sur <strong>MongoDB</strong>
+  </li>
+
+  <li>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/>
+    Explorer l’<strong>infrastructure</strong>
+    (réseau, systèmes, déploiement)
+  </li>
+</ul>
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-- GitHub : https://github.com/Dtnexo
+<p>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="18"/>
+  <strong>GitHub :</strong>
+  <a href="https://github.com/Dtnexo">https://github.com/Dtnexo</a>
+</p>
 
 <p align="center">
-  <i>⚡ Toujours curieux, toujours en train d'apprendre.</i>
+  <i>⚡ Toujours curieux, toujours en train d’apprendre.</i>
 </p>
+
