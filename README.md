@@ -53,7 +53,8 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
     <td><strong>HTML5</strong><br/>Structure et sémantique des pages web</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.simpleicons.org/css3/1572B6" width="28"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>
+</td>
     <td><strong>CSS3</strong><br/>Responsive design, Flexbox, Grid</td>
   </tr>
   <tr>
