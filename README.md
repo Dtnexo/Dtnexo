@@ -1,20 +1,8 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-      ?font=Fira+Code
-      &size=26
-      &pause=900
-      &center=true
-      &vCenter=true
-      &width=900
-      &lines=Salut,+moi+c'est+Dtnexo;
-      Apprenti+Informatique+-+3e+annee+Developpement;
-      Passionné+d'informatique;
-      Vue.js+%7C+React+%7C+API+REST+Express+%7C+MySQL;
-      Toujours+en+train+d'apprendre"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Salut,+moi+c'est+Dtnexo;Apprenti+Informatique+-+3e+annee+Developpement;Passionn%C3%A9+d%27informatique;Vue.js+%7C+React+%7C+API+REST+Express+%7C+MySQL;Toujours+en+train+d%27apprendre" />
 </p>
+
 
 
 <!-- QUICK BADGES -->
