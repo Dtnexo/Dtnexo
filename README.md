@@ -12,13 +12,26 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👤 À propos de moi
 
-Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné par l’informatique et curieux de tout ce qui touche au **web**, aux **API**, aux **bases de données** et à **l’infrastructure**.
+Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné par l’informatique et curieux de tout ce qui touche au **développement web**, aux **API**, aux **bases de données** et à **l’infrastructure**.
 
-- 🔥 J’aime construire des projets concrets et propres
-- 🚀 Je progresse en fullstack (front + back)
-- 🧠 Je m’intéresse aussi à l’infrastructure et au fonctionnement des systèmes
+<ul>
+  <li>
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="16"/>
+    J’aime concevoir des <strong>projets concrets, structurés et maintenables</strong>
+  </li>
+
+  <li>
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/>
+    Je progresse en <strong>fullstack</strong> (frontend & backend)
+  </li>
+
+  <li>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/>
+    Je m’intéresse à l’<strong>infrastructure</strong> et au fonctionnement des systèmes
+  </li>
+</ul>
 
 ---
 
@@ -91,6 +104,7 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📈 GitHub Stats
