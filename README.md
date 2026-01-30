@@ -57,17 +57,39 @@ Je suis **apprenti en informatique (3ᵉ année) en développement**, passionné
 
 ## 📌 Projets à voir
 
-- 🔹 **API REST (Express)**  
-  👉 https://github.com/Dtnexo/P_ApiRest-295
+<table>
+  <tr>
+    <td width="40">
+      <img src="https://cdn.simpleicons.org/express/ffffff" width="22"/>
+    </td>
+    <td>
+      <strong>API REST — Express.js</strong><br/>
+      Architecture backend, routes REST, validation, sécurité<br/>
+      🔗 <a href="https://github.com/Dtnexo/P_ApiRest-295">Voir le projet</a>
+    </td>
+  </tr>
 
-- 🔹 **Projet Web (Vue)**  
-  👉 https://github.com/Dtnexo/P_Web-295-294
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="22"/>
+    </td>
+    <td>
+      <strong>Projet Web — Vue.js</strong><br/>
+      Application frontend moderne (SPA)<br/>
+      🔗 <a href="https://github.com/Dtnexo/P_Web-295-294">Voir le projet</a>
+    </td>
+  </tr>
 
-- 🔹 **Application JavaScript**  
-  👉 https://github.com/Dtnexo/P_App
-
-- 🔹 **Projet Python**  
-  👉 https://github.com/Dtnexo/P_Dev-426
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22"/>
+    </td>
+    <td>
+      <strong>Application JavaScript</strong><br/>
+      Logique métier, DOM, interactions utilisateur<br/>
+      🔗 <a href="https://github.com/Dtnexo/P_App">Voir le projet</a>
+    </td>
+  </tr>
 
 ---
 
